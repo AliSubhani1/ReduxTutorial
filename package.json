@@ -1,0 +1,24 @@
+{
+  "name": "ReduxTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSubhani1/ReduxTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliSubhani1/ReduxTutorial/issues"
+  },
+  "homepage": "https://github.com/AliSubhani1/ReduxTutorial#readme",
+  "dependencies": {
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6"
+  }
+}
